@@ -3,7 +3,7 @@ import InfiniteScroll from 'react-infinite-scroll-component';
 import SearchBar from './SearchBar';
 import './ImageGallery.css';
 
-const accessKey = 'qE-cTs_DByTJXCXlpukZZGYuHF5AKyAQZCFx7HcXqMQ'; 
+const accessKey = 'cIvPZo-Vsk0iFpbHNA6MThc_315jQp6bf3VlBSBNBD0'; 
 const apiUrl = 'https://api.unsplash.com/photos';
 const searchApiUrl = 'https://api.unsplash.com/search/photos';
 
